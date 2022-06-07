@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 🔭 I’m currently working on becoming a __data engineer__
 
